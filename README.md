@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hola! Soy Gerardo
 
 <!--
 **gerardo-02/gerardo-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
